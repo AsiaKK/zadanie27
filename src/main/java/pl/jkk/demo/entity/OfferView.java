@@ -68,4 +68,5 @@ public class OfferView {
     public void setCategory(String category) {
         this.category = category;
     }
+
 }

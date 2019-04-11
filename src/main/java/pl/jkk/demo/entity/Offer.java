@@ -74,4 +74,5 @@ public class Offer {
     public void setCategory(Category category) {
         this.category = category;
     }
+
 }

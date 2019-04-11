@@ -54,4 +54,5 @@ public class Category {
     public void setOffers(Long offers) {
         this.offers = offers;
     }
+
 }

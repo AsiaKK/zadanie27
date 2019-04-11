@@ -1,5 +1,6 @@
 package pl.jkk.demo.repository;
 
+
 import pl.jkk.demo.entity.Offer;
 
 @Repository
